@@ -1,1 +1,1 @@
-- [![GitHub Streak](https://streak-stats.demolab.com?user=subhaorku&theme=highcontrast&border_radius=4.6&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200)](https://git.io/streak-stats)
+- [![GitHub Streak](https://streak-stats.demolab.com?user=subhaorku&theme=highcontrast&border_radius=6.5&date_format=j%20M%5B%20Y%5D&card_width=10000&card_height=500)](https://git.io/streak-stats)
